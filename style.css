@@ -1,0 +1,33 @@
+/*table {
+	border-spacing: 0px;
+	border-collapse: separate;
+  width: 100%;
+}
+th,
+td {
+  padding: 10px 15px;
+}*/
+thead{
+	background: #395870;
+ 	color: #fff;
+}
+/*tbody tr:nth-child(even) {
+  background: #f0f0f2;
+}*/
+/*td {
+  border-bottom: 1px solid #cecfd5;
+  border-right: 1px solid #cecfd5;
+}
+td:first-child {
+  border-left: 1px solid #cecfd5;
+}*/
+
+.small_input{
+	width:25px;
+}
+th{
+	cursor: pointer;
+}
+.jumbotron{
+  background: #395870;
+}
